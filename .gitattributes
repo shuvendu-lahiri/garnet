@@ -24,3 +24,5 @@
 *.dll binary
 *.dylib binary
 *.pdb binary
+
+.github/workflows/*.lock.yml linguist-generated=true
